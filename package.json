@@ -1,0 +1,33 @@
+{
+  "name": "const-universal",
+  "version": "0.0.0",
+  "description": "Cross-platform reference to the root global object.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha lib/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosyx/const-universal.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "universal",
+    "iframe",
+    "window",
+    "node"
+  ],
+  "author": "Alex Goldsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosyx/const-universal/issues"
+  },
+  "homepage": "https://github.com/tosyx/const-universal#readme",
+  "devDependencies": {
+    "chai": "^3.5",
+    "mocha": "^3.2"
+  },
+  "dependencies": {
+    "const-global": "/Users/Adventurer/Studio/Development/Projects/tosyx/const-global"
+  }
+}
