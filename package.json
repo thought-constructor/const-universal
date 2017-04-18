@@ -1,6 +1,6 @@
 {
   "name": "const-universal",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cross-platform reference to the root global object.",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "mocha": "^3.2"
   },
   "dependencies": {
-    "const-global": "/Users/Adventurer/Studio/Development/Projects/tosyx/const-global"
+    "const-global": "^0.0"
   }
 }
